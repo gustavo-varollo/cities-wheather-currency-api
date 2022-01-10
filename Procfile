@@ -1,1 +1,1 @@
-web: gunicorn gunicorn_app: wsgi
+web: gunicorn Cities.wsgi: wsgi
