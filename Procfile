@@ -1,1 +1,1 @@
-web: gunicorn app: Cities_API
+web: gunicorn app: wsgi
