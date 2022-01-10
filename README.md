@@ -17,6 +17,18 @@ allowing accesses.
 
 * flask run
 
+The API is deployed in Heroku the address to access is:
+
+https://cities-wheather-currency-api.herokuapp.com/
+
+Weather information end-point:
+
+https://cities-wheather-currency-api.herokuapp.com/weather/<city_name>/<country_id>
+
+Currency ratio and conversion:
+
+https://cities-wheather-currency-api.herokuapp.com/currency/<base_currency>/<target_currency>/<amount>
+
 ##AccuWeather
 
 AccuWeather API provides data of weather forecast for a range of countries and cities around the world. In this case
